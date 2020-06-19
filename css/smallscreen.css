@@ -1,0 +1,13 @@
+body{
+    background: none;
+   
+}
+main{
+    display:none;
+}
+footer{
+    display: none;
+}
+.notice{
+    display: block;
+}
