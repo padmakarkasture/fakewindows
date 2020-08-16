@@ -1,6 +1,6 @@
 body{
     height: 100%;
-    background-image: url('./img/windowbgh.jpg'); 
+    background: url('./img/windowbgh.jpg'); 
     background-repeat: no-repeat;
     background-size: cover;
 }
